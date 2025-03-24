@@ -5,13 +5,15 @@ By day, I’m a professional software engineer with over eight years of experien
 
 By night, I dive into random tech rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
 
-I’m passionate about **software architecture**, **system integrations**, and diving into new technologies. Always curious about how things fit together and evolve 🔍.  
-🔐 **Privacy-focused** and a **human-centered tech advocate** because I believe tech should always serve people first.  
-🐧 Lifelong **Linux enthusiast** & **open-source believer** *committed to keeping my kernel open for fresh ideas and never afraid to branch out!*
+I’m passionate about **software architecture** and **system integrations**.  
+Always curious about how things can fit together and work to build complex architecture 🔍.  
+🔐 **Privacy-focused** and a **human-centered tech advocate**  
+🐧 Lifelong **Linux enthusiast** & **open-source believer**
 
-Outside of coding, I love exploring how **history** shaped the world, from its starting points to what we have today.  
+Outside of coding, I love exploring how our **history** shaped the world today, including the fascinating nature of human psyche and societal norms.  
+Still photography is one of my favorite mediums of expressions, other than acoustic versions of music where emotions are emphasized.  
 🗺️ **Traveler at heart** drawn to historical places, not just for photos, but to experience the past and the journey itself. Digital nomad in spirit.  
-📸 (still working on my photography skills, my work is available at (a portfolio when I am ready!))
+📸 (still working on photography skills, my work is available at (a portfolio when I am ready!))
 
 - 🌍 Based in **Sri Lanka**
 - 🧠 **Currently learning:** Angular latest stuff, gRPC integration techniques, exploring the finance domain, diving into Go, and improving my photography & editing skills.
