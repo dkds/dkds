@@ -7,10 +7,11 @@ By night, I dive into random tech rabbit holes (Technology Connections 🗄️ a
 
 I’m passionate about **software architecture**, **system integrations**, and diving into new technologies. Always curious about how things fit together and evolve 🔍.  
 🔐 **Privacy-focused** and a **human-centered tech advocate** because I believe tech should always serve people first.  
-🐧 Lifelong **Linux enthusiast** & **open-source believer**—*committed to keeping my kernel open for fresh ideas and never afraid to branch out!*
+🐧 Lifelong **Linux enthusiast** & **open-source believer** *committed to keeping my kernel open for fresh ideas and never afraid to branch out!*
 
 Outside of coding, I love exploring how **history** shaped the world, from its starting points to what we have today.  
-🗺️ **Traveler at heart**—drawn to historical places, not just for photos, but to experience the past and the journey itself. Digital nomad in spirit. (Obviously, I take photos, but still working on my photography skills 📸)
+🗺️ **Traveler at heart** drawn to historical places, not just for photos, but to experience the past and the journey itself. Digital nomad in spirit.  
+📸 (still working on my photography skills, my work is available at (a portfolio when I am ready!))
 
 - 🌍 Based in **Sri Lanka**
 - 🧠 **Currently learning:** Angular latest stuff, gRPC integration techniques, exploring the finance domain, diving into Go, and improving my photography & editing skills.
