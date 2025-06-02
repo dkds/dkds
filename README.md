@@ -1,22 +1,22 @@
 # Hi there! 👋 I’m Dakshitha
-### Tech Explorer | History & Psychology Nerd | Coffee Enthusiast | PC Gamer | Acoustic & Soulful Music Lover | Time & Space Traveler (without a TARDIS)
+### Tech Explorer | Coffee Enthusiast | PC Gamer | Music Lover | History & Psychology Nerd | Time & Space Traveler (without a TARDIS)
 
-By day, I’m a professional software engineer with over eight years of experience working with industrial systems.
+By day, I’m a professional software engineer with over eight years of experience working with industrial systems, mainly with microservices architecture.
 
-By night, I dive into random tech rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
+By night, I dive into random online rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
 
 I’m passionate about **software architecture** and **system integrations**.  
 Always curious about how things can fit together and work to build complex architecture 🔍.  
 🔐 **Privacy-focused** and a **human-centered tech advocate**  
 🐧 Lifelong **Linux enthusiast** & **open-source believer**
 
-Outside of coding, I love exploring how our **history** shaped the world today, including the fascinating nature of human psyche and societal norms.  
-Still photography is one of my favorite mediums of expressions, other than acoustic versions of music where emotions are emphasized.  
-🗺️ **Traveler at heart** drawn to historical places, not just for photos, but to experience the past and the journey itself. Digital nomad in spirit.  
-📸 (still working on photography skills, my work is available at (a portfolio when I am ready!))
+Outside of coding I am a **hobbyist street photographer**. 
+Still photography is one of my favorite mediums of expressions, other than acoustic music where emotions are emphasized.  
+🗺️ I am also a **Traveler at heart** drawn to historical places, not just for photos, but to experience the past and the journey itself.  
+📸 (still working on photography skills, my work so far is available at [flickr.com/photos/dakshithad](https://www.flickr.com/photos/dakshithad/))
 
 - 🌍 Based in **Sri Lanka**
-- 🧠 **Currently learning:** Angular latest stuff, gRPC integration techniques, exploring the finance domain, diving into Go, and improving my photography & editing skills.
+- 🧠 **Currently learning:** Angular latest stuff, exploring the finance domain, diving into Go, and improving my photography & editing skills.
 - 🤝 Looking to collaborate on open-source projects in my free time, particularly those focused on **privacy**, **human-centered tech**.
 
 ### Interests
