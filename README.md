@@ -1,22 +1,22 @@
 # Hi there! 👋 I’m Dakshitha
-### Tech Explorer | Coffee Enthusiast | PC Gamer | Music Lover | History & Psychology Nerd | Time & Space Traveler (without a TARDIS)
+### Tech Explorer | Street Photographer | PC Gamer | Time & Space Traveler (without a TARDIS)
 
-By day, I’m a professional software engineer with over eight years of experience working with industrial systems, mainly with microservices architecture.
+By day, I’m a professional full-stack software engineer with bit over eight years of experience working with industrial software systems, mainly with microservices architecture.
 
-By night, I dive into random online rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
+By night, I dive into random online tech rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
 
-I’m passionate about **software architecture** and **system integrations**.  
+I mainly work with **Java** and **Javascript** as languages, and I’m passionate about **software architecture** and **system integrations**.  
 Always curious about how things can fit together and work to build complex architecture 🔍.  
 🔐 **Privacy-focused** and a **human-centered tech advocate**  
 🐧 Lifelong **Linux enthusiast** & **open-source believer**
 
-Outside of coding I am a **hobbyist street photographer**. 
-Still photography is one of my favorite mediums of expressions, other than acoustic music where emotions are emphasized.  
-🗺️ I am also a **Traveler at heart** drawn to historical places, not just for photos, but to experience the past and the journey itself.  
-📸 (still working on photography skills, my work so far is available at [flickr.com/photos/dakshithad](https://www.flickr.com/photos/dakshithad/))
+Outside of coding I am a **hobbyist street photographer** and a **traveler**. 
+Still photography is one of my favorite mediums of expressions, other than acoustic music.  
+🗺️ So I travel around with a camera, capturing everyday lives of people, while experiencing the journey itself.  
+📸 (still working on photography and editing skills, my work so far is [at flickr.com](https://www.flickr.com/photos/dakshithad/))
 
 - 🌍 Based in **Sri Lanka**
-- 🧠 **Currently learning:** Angular latest stuff, exploring the finance domain, diving into Go, and improving my photography & editing skills.
+- 🧠 **Currently learning:** Angular latest stuff, exploring the finance domain, diving into Go.
 - 🤝 Looking to collaborate on open-source projects in my free time, particularly those focused on **privacy**, **human-centered tech**.
 
 ### Interests
