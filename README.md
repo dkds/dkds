@@ -1,12 +1,12 @@
 # Hi there! 👋 I’m Dakshitha
-### Tech Explorer | Street Photographer | PC Gamer | Time & Space Traveler (without a TARDIS)
+### Tech Explorer | PC Gamer | Street Photographer | Time & Space Traveler (without a TARDIS)
 
-By day, I’m a professional full-stack software engineer with bit over eight years of experience working with industrial software systems, mainly with microservices architecture.
+By day, I’m a professional full-stack software engineer with a bit over eight years of experience working with industrial software systems, mainly with the microservices architecture.
 
 By night, I dive into random online tech rabbit holes (Technology Connections 🗄️ and LGR 🖥️ fan here 🚀) and moonlight as a gamer (pcmasterrace all the way 💻!).
 
 I mainly work with **Java** and **Javascript** as languages, and I’m passionate about **software architecture** and **system integrations**.  
-Always curious about how things can fit together and work to build complex architecture 🔍.  
+Always curious about how things can fit together and work to build complex architecture.  
 🔐 **Privacy-focused** and a **human-centered tech advocate**  
 🐧 Lifelong **Linux enthusiast** & **open-source believer**
 
