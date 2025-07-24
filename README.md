@@ -11,12 +11,11 @@ Always curious about how things can fit together and work to build complex archi
 🐧 Lifelong **Linux enthusiast** & **open-source believer**
 
 Outside of coding I am a **hobbyist street photographer** and a **traveler**. 
-Still photography is one of my favorite mediums of expressions, other than acoustic music.  
-🗺️ So I travel around with a camera, capturing everyday lives of people, while experiencing the journey itself.  
+Still photography is one of my favorite mediums of expressions.
 📸 (still working on photography and editing skills, my work so far is [at flickr.com](https://www.flickr.com/photos/dakshithad/))
 
 - 🌍 Based in **Sri Lanka**
-- 🧠 **Currently learning:** Angular latest stuff, exploring the finance domain, diving into Go.
+- 🧠 **Currently learning:** Refreshing on react+nextjs, exploring the sping security projects, diving into Go.
 - 🤝 Looking to collaborate on open-source projects in my free time, particularly those focused on **privacy**, **human-centered tech**.
 
 ### Interests
