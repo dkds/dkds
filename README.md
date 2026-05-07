@@ -2,7 +2,6 @@
 
 ### Backend & platform engineer | Java/Spring Boot, Node.js, React | 8+ yrs | microservices and system integration
 
----
 
 ## About
 
@@ -25,7 +24,3 @@ Software engineer with eight-plus years across enterprise systems, mostly built 
 ## Beyond code
 
 Hobbyist street photographer - work-in-progress on <a href="https://www.flickr.com/photos/dakshithad/" target="_blank">Flickr</a>. Long-time Linux user and a quiet advocate for privacy and human-centred technology. Evenings tend to involve YouTube rabbit holes (<a href="https://www.youtube.com/technologyconnections" target="_blank">Technology Connections</a>, <a href="https://www.youtube.com/@LGR" target="_blank">LGR</a>, <a href="https://www.youtube.com/@Techmoan" target="_blank">Techmoan</a>) and the occasional PC build.
-
-## Find me
-
-<a href="https://www.linkedin.com/in/dakshitha-dissanayake" target="_blank">LinkedIn</a>
