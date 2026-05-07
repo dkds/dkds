@@ -9,7 +9,7 @@ Software engineer with eight-plus years across enterprise systems, mostly built 
 
 ## What I am working on
 
-- Spring Boot 4.x platform migration, OAuth 2.1 / SAML2 security infrastructure, and gRPC integration on an enterprise SaaS product.
+Spring Boot 4.x platform migration, OAuth 2.1 / SAML2 security infrastructure, and gRPC integration on an enterprise SaaS product.
 
 ## Stack
 
@@ -23,4 +23,4 @@ Software engineer with eight-plus years across enterprise systems, mostly built 
 
 ## Beyond code
 
-Hobbyist street photographer - work-in-progress on <a href="https://www.flickr.com/photos/dakshithad/" target="_blank">Flickr</a>. Long-time Linux user and a quiet advocate for privacy and human-centred technology. Evenings tend to involve YouTube rabbit holes (<a href="https://www.youtube.com/technologyconnections" target="_blank">Technology Connections</a>, <a href="https://www.youtube.com/@LGR" target="_blank">LGR</a>, <a href="https://www.youtube.com/@Techmoan" target="_blank">Techmoan</a>) and the occasional PC build.
+Hobbyist street photographer, work-in-progress on <a href="https://www.flickr.com/photos/dakshithad/" target="_blank">Flickr</a>. Long-time Linux user and a quiet advocate for privacy and human-centred technology. Evenings tend to involve YouTube rabbit holes (<a href="https://www.youtube.com/technologyconnections" target="_blank">Technology Connections</a>, <a href="https://www.youtube.com/@LGR" target="_blank">LGR</a>, <a href="https://www.youtube.com/@Techmoan" target="_blank">Techmoan</a>) and the occasional PC build.
